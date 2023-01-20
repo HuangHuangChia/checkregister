@@ -1,0 +1,5 @@
+register admin login check邏輯
+1.6分 register 在z:\寫入 registerlogin.txt   (\\holiday\checkregisterlogin)
+2.11分  holiday check register  C:\Task\checkregister\check\registerlogin.txt
+        存在: 刪除
+        不存在: line通知

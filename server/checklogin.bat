@@ -1,0 +1,1 @@
+echo "register admin login" > Z:/checkregisterlogin.txt
